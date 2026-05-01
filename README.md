@@ -27,9 +27,10 @@ l’ISET de Médenine et l’université de Colorado à Boulder, (2012-2015)
 - Directeur d’établissement scolaire
 # Projets phares
 - Développement d’une Application pour la gestion des interventions en maintenance:
-  ![GI]([image-url](https://github.com/taiebnailiai/Portfolio/blob/main/images/GI.png))
+  
+  ![GI](/images/GI.png)
 - Développement d’un CD-Rom interactif: Analyse d’un système mécanique : « ASM ».
-  ![ASM](image-url)
+  ![ASM](/images/ASM.png)
 - Développement d’une Application: Simulateur de l’examen CSWA SolidWorks : « SimCSWA ».
-  ![SimCSWA](image-url)
+  ![SimCSWA](/images/simulateur)
   
