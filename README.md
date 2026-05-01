@@ -26,7 +26,10 @@ l’ISET de Médenine et l’université de Colorado à Boulder, (2012-2015)
 - Responsable conseil & formation (Centre 4C)  
 - Directeur d’établissement scolaire
 # Projets phares
-- Création et animation du club « Sciences & technologie » (CSTIM) (2018).
+- Développement d’une Application pour la gestion des interventions en maintenance:
+  ![Gestion des interventions](image-url)
 - Développement d’un CD-Rom interactif: Analyse d’un système mécanique : « ASM ».
+  ![Analyse d'un système mécanique](image-url)
 - Développement d’une Application: Simulateur de l’examen CSWA SolidWorks : « SimCSWA ».
+  ![Simulateur de l’examen CSWA SolidWorks](image-url)
   
