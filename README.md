@@ -32,5 +32,5 @@ l’ISET de Médenine et l’université de Colorado à Boulder, (2012-2015)
 - Développement d’un CD-Rom interactif: Analyse d’un système mécanique : « ASM ».
   ![ASM](/images/ASM.png)
 - Développement d’une Application: Simulateur de l’examen CSWA SolidWorks : « SimCSWA ».
-  ![SimCSWA](/images/simulateur)
+  ![SimCSWA](/images/SimCSWA.png)
   
