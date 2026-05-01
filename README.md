@@ -13,7 +13,7 @@ Bonjour, je suis Taieb Naili.
 - Maîtrise en Sciences Techniques, Construction Mécanique
   - École Normale Supérieure de l’Enseignement Supérieur de Tunis (ENSET), Tunisie (Juin 1985)
 # Expériences professionnelles
-Avec plusieurs décennies d’expérience dans l’enseignement secondaire et supérieur en Tunisie, j’ai accompagné des centaines d’étudiants dans les domaines du **génie mécanique**, de la **conception assistée par ordinateur**, et des **nouvelles technologies éducatives**.  
+- Avec plusieurs décennies d’expérience dans l’enseignement secondaire et supérieur en Tunisie, j’ai accompagné des centaines d’étudiants dans les domaines du **génie mécanique**, de la **conception assistée par ordinateur**, et des **nouvelles technologies éducatives**.  
 J’ai également occupé plusieurs postes de responsabilité : 
 - Membre de la commission du projet de coopération avec l’Université de Colorado à Boulder
 intitulé : « Développement des technologies renouvelables et de l’efficacité énergétique »
@@ -27,7 +27,6 @@ l’ISET de Médenine et l’université de Colorado à Boulder, (2012-2015)
 - Directeur d’établissement scolaire
 # Projets phares
 - Développement d’une Application pour la gestion des interventions en maintenance:
-  
   ![GI](/images/GI.png)
 - Développement d’un CD-Rom interactif: Analyse d’un système mécanique : « ASM ».
   ![ASM](/images/ASM.png)
