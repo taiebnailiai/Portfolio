@@ -6,7 +6,7 @@ Bonjour, je suis Taieb Naili.
 - Certifié en:
     - Microsoft Office (MOS): (Word, excel et PowerPoint)
     - SolidwWorks (CSWA).
-Aujourd’hui, je souhaite valoriser mon expertise à travers des projets numériques, de la formation en ligne et des ressources pédagogiques modernes.
+- Aujourd’hui, je souhaite valoriser mon expertise à travers des projets numériques, de la formation en ligne et des ressources pédagogiques modernes.
 # Education
 - Mastère spécialisé, Nouvelles technologies de l’information et commerce électronique | École Nationale d’Ingénieurs de Sfax, Tunisie (ENIS) (Novembre 2007)
 - Maîtrise en Sciences Techniques, Construction Mécanique | École Normale Supérieure de l’Enseignement Supérieur de Tunis (ENSET), Tunisie (Juin 1985)
