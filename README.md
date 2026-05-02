@@ -7,11 +7,13 @@ Bonjour, je suis Taieb Naili.
     - Microsoft Office (MOS): (Word, excel et PowerPoint)
     - SolidwWorks (CSWA).
 - Aujourd’hui, je souhaite valoriser mon expertise à travers des projets numériques, de la formation en ligne et des ressources pédagogiques modernes.
+
 # Education
 - Mastère spécialisé, Nouvelles technologies de l’information et commerce électronique
   - École Nationale d’Ingénieurs de Sfax, Tunisie (ENIS) (Novembre 2007)
 - Maîtrise en Sciences Techniques, Construction Mécanique
   - École Normale Supérieure de l’Enseignement Supérieur de Tunis (ENSET), Tunisie (Juin 1985)
+
 # Expériences professionnelles
 - Avec plusieurs décennies d’expérience dans l’enseignement secondaire et supérieur en Tunisie, j’ai accompagné des centaines d’étudiants dans les domaines du **génie mécanique**, de la **conception assistée par ordinateur**, et des **nouvelles technologies éducatives**.  
 J’ai également occupé plusieurs postes de responsabilité : 
@@ -25,6 +27,7 @@ l’ISET de Médenine et l’université de Colorado à Boulder, (2012-2015)
 - Administrateur centre de certification Microsoft  
 - Responsable conseil & formation (Centre 4C)  
 - Directeur d’établissement scolaire
+
 # Projets phares
 - Développement d’une Application pour la gestion des interventions en maintenance:
   ![GI](/images/GI.png)
