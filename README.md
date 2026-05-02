@@ -19,16 +19,16 @@ Bonjour, je suis Taieb Naili.
 
 - Avec plusieurs décennies d’expérience dans l’enseignement secondaire et supérieur en Tunisie, j’ai accompagné des centaines d’étudiants dans les domaines du **génie mécanique**, de la **conception assistée par ordinateur**, et des **nouvelles technologies éducatives**.  
 J’ai également occupé plusieurs postes de responsabilité : 
-- Membre de la commission du projet de coopération avec l’Université de Colorado à Boulder
+ - Membre de la commission du projet de coopération avec l’Université de Colorado à Boulder
 intitulé : « Développement des technologies renouvelables et de l’efficacité énergétique »
 (2012-2015).
-- Responsable de la réfrigération Industrielle dans le projet de coopération « Tunisia Jobs » entre
+ - Responsable de la réfrigération Industrielle dans le projet de coopération « Tunisia Jobs » entre
 l’ISET de Médenine et l’université de Colorado à Boulder, (2012-2015)
-- Responsable laboratoire CAO  
-- Responsable stages & PFE  
-- Administrateur centre de certification Microsoft  
-- Responsable conseil & formation (Centre 4C)  
-- Directeur d’établissement scolaire
+ - Responsable laboratoire CAO  
+ - Responsable stages & PFE  
+ - Administrateur centre de certification Microsoft  
+ - Responsable conseil & formation (Centre 4C)  
+ - Directeur d’un établissement scolaire
 
 # Projets phares
 
