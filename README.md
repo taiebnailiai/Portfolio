@@ -32,7 +32,7 @@ l’ISET de Médenine et l’université de Colorado à Boulder, (2012-2015)
 
 # Projets phares
 
-- Développement d’une Application pour la gestion des interventions en maintenance:
+- Développement d’une Application pour la gestion des interventions de maintenance:
   ![GI](/images/GI.png)
 - Développement d’un CD-Rom interactif: Analyse d’un système mécanique : « ASM ».
   ![ASM](/images/ASM.png)
